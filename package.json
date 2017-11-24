@@ -1,7 +1,7 @@
 {
   "name": "atom-counter",
   "main": "index",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A counter for the joke created by AlynxZhou.",
   "keywords": [
     "counter",
@@ -13,8 +13,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "consumedServices": {
     "status-bar": {
       "versions": {
