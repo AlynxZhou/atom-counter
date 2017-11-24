@@ -1,0 +1,25 @@
+{
+  "name": "atom-counter",
+  "main": "index",
+  "version": "0.0.0",
+  "description": "A counter for the joke created by AlynxZhou.",
+  "keywords": [
+    "counter",
+    "joke",
+    "interrupt"
+  ],
+  "repository": "https://github.com/AlynxZhou/atom-counter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}
