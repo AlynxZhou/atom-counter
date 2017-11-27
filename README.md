@@ -1,4 +1,5 @@
-# AtomCounter
+AtomCounter
+===========
 
 A counter for the joke created by AlynxZhou.
 
